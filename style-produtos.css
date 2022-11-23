@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: rgb(251, 167, 243);
+    }
+    nav{
+        position: absolute ;
+        top: 75px;
+        right: 50px;
+    }
+    nav a{
+        text-decoration: none;
+        font-size: 20px;
+        padding-left: 20px ;
+        text-transform: uppercase;
+        color: black;
+    }
+    nav a:hover{
+        font-weight: bold;
+        font-size: 22px;
+        color: rgb(242, 129, 129);
+        transition: 0.5s;
+    }
+    .logo{
+        width: 15%;
+        border-radius: 100%;
+    }
+    h3{
+        text-align: left;
+    }
+    .imagem-produto{
+        width: 80% ;
+    }
